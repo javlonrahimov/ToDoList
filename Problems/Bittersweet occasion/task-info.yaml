@@ -1,0 +1,12 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # finish the function
+    def find_the_parent(child):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9324
+status: Solved
+record: -1
